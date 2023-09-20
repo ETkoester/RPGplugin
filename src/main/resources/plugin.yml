@@ -1,0 +1,4 @@
+name: RPGplugin
+version: '${project.version}'
+main: com.minecraft.rpgplugin.RPGplugin
+api-version: '1.20'
