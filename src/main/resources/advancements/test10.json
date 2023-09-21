@@ -14,7 +14,7 @@
     "hidden": false,
     "background": ""
   },
-  "parent": "rpgplugin:root",
+  "parent": "rpgplugin:root2",
   "criteria": {
     "imp": {
       "trigger": "minecraft:impossible"
